@@ -30,7 +30,6 @@ This project simulates a simple banking system where users can create accounts, 
 | Database | MySQL |
 | Connector | MySQL C API |
 | Compiler | g++ |
-| Platform | Linux / Ubuntu |
 
 ---
 
